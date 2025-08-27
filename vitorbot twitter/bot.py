@@ -2,8 +2,8 @@ import tweepy
 import datetime
 import time
 
-auth = tweepy.OAuthHandler("EpBQRgtusXhoCRPUFtdc2Tpij", "00DCVwlNeKsUKzSNqewfRbumLhzq3AsmLyOJltRIpxRiyW2KlN")
-auth.set_access_token("1338892474119557122-g7T5XVIoGoSy49rf1ZI95bj3oGzoAp", "R9MDnQI16QVABYPvdLImOm3JzSZEDmVg9uMW6Zg1SsUCE")
+auth = tweepy.OAuthHandler("", "")
+auth.set_access_token("", "")
 api = tweepy.API(auth) 
 
 
